@@ -1,0 +1,6 @@
+{
+  "name": "Predictive Analytics Using Historical Data",
+  "description": "Browser-based predictive analytics application using classical statistical methods to analyze historical sales data, detect trends, and forecast future revenue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
